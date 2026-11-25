@@ -1,0 +1,2 @@
+# rustrem
+standalone stremio tui
